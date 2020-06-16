@@ -1,0 +1,10 @@
+C:\Users\A\Desktop\08__PA09_QingLiang\08__PA09_QingLiang\bin\Debug\08__PA09_QingLiang.exe.config
+C:\Users\A\Desktop\08__PA09_QingLiang\08__PA09_QingLiang\bin\Debug\08__PA09_QingLiang.exe
+C:\Users\A\Desktop\08__PA09_QingLiang\08__PA09_QingLiang\bin\Debug\08__PA09_QingLiang.pdb
+C:\Users\A\Desktop\08__PA09_QingLiang\08__PA09_QingLiang\obj\Debug\08__PA09_QingLiang.csprojAssemblyReference.cache
+C:\Users\A\Desktop\08__PA09_QingLiang\08__PA09_QingLiang\obj\Debug\_08__PA09_QingLiang.Properties.Resources.resources
+C:\Users\A\Desktop\08__PA09_QingLiang\08__PA09_QingLiang\obj\Debug\08__PA09_QingLiang.csproj.GenerateResource.cache
+C:\Users\A\Desktop\08__PA09_QingLiang\08__PA09_QingLiang\obj\Debug\08__PA09_QingLiang.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\08__PA09_QingLiang\08__PA09_QingLiang\obj\Debug\08__PA09_QingLiang.exe
+C:\Users\A\Desktop\08__PA09_QingLiang\08__PA09_QingLiang\obj\Debug\08__PA09_QingLiang.pdb
+C:\Users\A\Desktop\08__PA09_QingLiang\08__PA09_QingLiang\obj\Debug\_08__PA09_QingLiang.Form1.resources
